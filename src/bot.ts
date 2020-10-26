@@ -21,3 +21,5 @@ mongoose.connect(config.mongoURL, {
 }, (error) => error
     ? Log.error('Failed to connect to db', 'bot')
     : Log.info('Connected to db', 'bot'));
+
+setInterval(() => require('node-fetch')('https://dbots-demo.glitch.me'), 5 * 60 * 1000);

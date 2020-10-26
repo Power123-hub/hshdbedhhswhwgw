@@ -1,10 +1,10 @@
 {
     "bot": {
-        "token": "NzQwNDkyODIwNTA2MzQ1NTE0.Xypzrg.0P7KxZ_d9LdbzofsQUO-g1UYL48",
-        "secret": "-hrY8eovDIEDvtlxEaRshkRHM98MY5qj",
+        "token": "<your_bot_token>",
+        "secret": "<your_client_secret>",
         "ownerId": "",
         "activity": "dbots.co",
-        "id": "740492820506345514"
+        "id": "<your_bot_id>"
     },
     "guild": {
         "botRoleId": "770331932545384489",
@@ -18,5 +18,5 @@
         "supportInvite": "uDTgxyg"
     },
     "dashboardURL": "https://dbots-demo.glitch.me",
-    "mongoURL": "mongodb+srv://user:qVEfEaZrvPEWeYHr@cluster0.599lk.mongodb.net/DBots?retryWrites=true&w=majority"
+    "mongoURL": "mongodb+srv://<username>:<password>@<mongodb_atlas_cluster_url>/DBots?retryWrites=true&w=majority"
 }

@@ -6,12 +6,12 @@
 Learn how to use cool widgets that you can use to show off your bot, and get more votes.
 
 ## Get A Bot Widget
-**URL**: `https://dbots.co/api/v1/bots/[botId]/widget`
+**URL**: `https://discbots-list.glitch.me/api/v1/bots/[botId]/widget`
 
 **HTML Widget Syntax**:
 ```
-<a href="https://dbots.co/bots/yourBotId">
-  <img src="https://dbots.co/api/v1/bots/[botId]/widget" alt="View on DBots">
+<a href="https://discbots-list.glitch.me/bots/yourBotId">
+  <img src="https://discbots-list.glitch.me/api/v1/bots/[botId]/widget" alt="View on DBots">
 </a>
 ```
 

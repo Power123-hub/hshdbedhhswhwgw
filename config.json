@@ -1,22 +1,22 @@
 {
     "bot": {
-        "token": "<your_bot_token>",
-        "secret": "<your_client_secret>",
-        "ownerId": "",
-        "activity": "dbots.co",
-        "id": "<your_bot_id>"
+        "token": "Nzg1NTM5NTExOTYyNjk3NzM5.X85Urg.ixgj10fDXdkfSi6V3zJlzFY_kVU",
+        "secret": "2jZchRw-nOwFPREnEugjz2vv8ZK3l2aa",
+        "ownerId": "613708303461122048",
+        "activity": "discbots-list.glitch.me",
+        "id": "785539511962697739"
     },
     "guild": {
         "botRoleId": "770331932545384489",
-        "devRoleId": "761610131703463997",
-        "id": "531196495584821314",
-        "logChannelId": "724730682433077359"
+        "devRoleId": "613708303461122048",
+        "id": "785546419313311774",
+        "logChannelId": "785547708668575754"
     },
     "api": {
-        "url": "https://dbots-demo.glitch.me/api/v1",
+        "url": "https://discbots-list.glitch.me/api/v1",
         "port": "3000",
-        "supportInvite": "uDTgxyg"
+        "supportInvite": "gwvp7cgS5n"
     },
-    "dashboardURL": "https://dbots-demo.glitch.me",
-    "mongoURL": "mongodb+srv://<username>:<password>@<mongodb_atlas_cluster_url>/DBots?retryWrites=true&w=majority"
+    "dashboardURL": "https://discbots-list.glitch.me",
+    "mongoURL": "mongodb+srv://iifoxhero1:Bp1qqIdre3D8Ga1B@cluster0.bxffg.mongodb.net/discbots-list?retryWrites=true&w=majority"
 }

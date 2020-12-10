@@ -7,7 +7,7 @@ This guide will show you how to get started with DBots, and add a bot.
 
 ## Step 1
 **Join the DBots Server**
-Make sure you are in the [DiscoBots - List Discord Server](https://discord.gg/HUKqG3Wb36) to enable you to add a bot.
+Make sure you are in the [DiscoBots - List Discord Server](https://discord.io/DiscoBots-List) to enable you to add a bot.
 
 ![Join the DiscoBots - List Server](assets/docs/img/get-started/join-the-server.png)
 

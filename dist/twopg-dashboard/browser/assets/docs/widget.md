@@ -19,7 +19,7 @@ Replace `[botId]` with the ID of a bot.
 Using a widget, on your home page, can also help get your bot [featured](/docs/get-featured).
 
 **Example**
-![Bot Widget Example](/api/v1/bots/525935335918665760/widget)
+![Bot Widget Example](/api/v1/bots/768809246002511923/widget)
 
 ## Sizes
 **Large** (default)

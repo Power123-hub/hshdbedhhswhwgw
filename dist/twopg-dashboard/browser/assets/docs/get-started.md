@@ -7,13 +7,13 @@ This guide will show you how to get started with DBots, and add a bot.
 
 ## Step 1
 **Join the DBots Server**
-Make sure you are in the [DBots Discord Server](/server) to enable you to add a bot.
+Make sure you are in the [DiscoBots - List Discord Server](https://discord.gg/HUKqG3Wb36) to enable you to add a bot.
 
-![Join the DBots Server](assets/docs/img/get-started/join-the-server.png)
+![Join the DiscoBots - List Server](assets/docs/img/get-started/join-the-server.png)
 
 ## Step 2
 **Add a Bot**
-[Login]([https://dbots.co/login) to the DBots Dashboard to your server.
+[Login]([https://discbots-list.glitch.me/login) to the DBots Dashboard to your server.
 This will redirect you to a Discord oauth link which should auto login to DBots, with your currently logged-in Discord account.
 After logging into the dashboard, you can [add a bot](/dashboard/bots/new) by clicking on the '+' icon.
 

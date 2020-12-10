@@ -35,6 +35,6 @@ Replace [yourBotId] with the ID of your bot.
 ---
 
 ## Message an Admin
-Send a message to a [DBots Discord server](/server) admin with the URL to your home page, and it will be validated.
+Send a message to a [DBots Discord server](https://discord.gg/HUKqG3Wb36) admin with the URL to your home page, and it will be validated.
 
 `Insert send message to admin feature here`

@@ -13,9 +13,9 @@
         "logChannelId": "785547708668575754"
     },
     "api": {
-        "url": "https://discbots-list.glitch.me/api",
+        "url": "https://discbots-list.glitch.me/api/v1",
         "port": "3000",
-        "supportInvite": "gwvp7cgS5n"
+        "supportInvite": "https://discord.gg/HUKqG3Wb36"
     },
     "dashboardURL": "https://discbots-list.glitch.me",
     "mongoURL": "mongodb+srv://iifoxhero1:Bp1qqIdre3D8Ga1B@cluster0.bxffg.mongodb.net/discbots-list?retryWrites=true&w=majority"

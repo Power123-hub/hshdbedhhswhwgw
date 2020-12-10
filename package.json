@@ -2,7 +2,7 @@
   "name": "dbots",
   "version": "0.0.1",
   "description": "Best Discord bot list",
-  "main": "bot.js",
+  "main": "bot.ts",
   "scripts": {
     "test": "ts-mocha tests/**/**/*.tests.ts",
     "test:u": "ts-mocha tests/unit/*.tests.ts",

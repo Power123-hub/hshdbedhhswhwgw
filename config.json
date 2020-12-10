@@ -1,7 +1,7 @@
 {
     "bot": {
-        "token": "Nzg1NTM5NTExOTYyNjk3NzM5.X85Urg.ixgj10fDXdkfSi6V3zJlzFY_kVU",
-        "secret": "2jZchRw-nOwFPREnEugjz2vv8ZK3l2aa",
+        "token": "Nzg1NTM5NTExOTYyNjk3NzM5.X85Urg.AiKgDsJaHCV-6bcaUNDkj0jRkTQ",
+        "secret": "XgAIF4rHkJDP7OU5mzt1uCB4bsB15Ssh",
         "ownerId": "613708303461122048",
         "activity": "discbots-list.glitch.me",
         "id": "785539511962697739"
@@ -13,7 +13,7 @@
         "logChannelId": "785547708668575754"
     },
     "api": {
-        "url": "https://discbots-list.glitch.me/api/v1",
+        "url": "https://discbots-list.glitch.me/api",
         "port": "3000",
         "supportInvite": "gwvp7cgS5n"
     },

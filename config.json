@@ -2,9 +2,10 @@
     "bot": {
         "token": "NjY2OTUwMzQ2MTAyNDA3MTY4.Xh7n6Q.luVEzAdgaWLJRukiF2D3qqZLQBs",
         "secret": "LH7j5l_DteIEA-QhIbVNHZn9Z4sqoJUk",
-        "ownerId": "653654249577906207,653654249577906207",
+        "ownerId": "653654249577906207,504702698629758996",
         "activity": "digna-bot-list.glitch.me",
-        "id": "666950346102407168"
+        "id": "666950346102407168",
+         "prefix":"!"
     },
     "guild": {
         "botRoleId": "805883663711076399",

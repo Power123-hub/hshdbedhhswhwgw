@@ -1,22 +1,22 @@
 {
     "bot": {
-        "token": "Nzg1NTM5NTExOTYyNjk3NzM5.X85Urg.AiKgDsJaHCV-6bcaUNDkj0jRkTQ",
-        "secret": "XgAIF4rHkJDP7OU5mzt1uCB4bsB15Ssh",
-        "ownerId": "613708303461122048",
-        "activity": "discbots-list.glitch.me",
-        "id": "785539511962697739"
+        "token": "NjY2OTUwMzQ2MTAyNDA3MTY4.Xh7n6Q.luVEzAdgaWLJRukiF2D3qqZLQBs",
+        "secret": "LH7j5l_DteIEA-QhIbVNHZn9Z4sqoJUk",
+        "ownerId": "653654249577906207,653654249577906207",
+        "activity": "digna-bot-list.glitch.me",
+        "id": "666950346102407168"
     },
     "guild": {
-        "botRoleId": "770331932545384489",
-        "devRoleId": "613708303461122048",
-        "id": "785546419313311774",
-        "logChannelId": "785547708668575754"
+        "botRoleId": "805883663711076399",
+        "devRoleId": "805855233800142848",
+        "id": "805855233603403847",
+        "logChannelId": "805880257247707177"
     },
     "api": {
-        "url": "https://discbots-list.glitch.me/api/v1",
+        "url": "https://digna-bot-list.glitch.me/api/v1",
         "port": "3000",
-        "supportInvite": "https://discord.gg/HUKqG3Wb36"
+        "supportInvite": "https://discord.gg/YcwVhPcy9V"
     },
-    "dashboardURL": "https://discbots-list.glitch.me",
-    "mongoURL": "mongodb+srv://iifoxhero1:Bp1qqIdre3D8Ga1B@cluster0.bxffg.mongodb.net/discbots-list?retryWrites=true&w=majority"
+    "dashboardURL": "https://digna-bot-list.glitch.me",
+    "mongoURL": "mongodb+srv://bedirhan:kuyucubedirhan98765@cluster0.cdwys.mongodb.net/test"
 }

@@ -9,12 +9,12 @@ import Log from './utils/log';
 
 export const bot = new Client();
 
-bot.login(config.bot.token);
+bot.login(process.env.bot.token);
 
 Deps.get<EventsService>(EventsService).init();
 Deps.build(API);
 
-mongoose.connect(config.mongoURL, { 
+mongoose.connect(process.env.mongoURL, { 
     useUnifiedTopology: true, 
     useNewUrlParser: true, 
     useFindAndModify: false 

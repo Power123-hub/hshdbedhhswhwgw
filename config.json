@@ -15,8 +15,8 @@
     "api": {
         "url": "https://developing-thrilling-beauty.glitch.me/api/v1",
         "port": "3000",
-        "supportInvite": "https://discord.gg/HUKqG3Wb36"
+        "supportInvite": "https://discord.gg/YcwVhPcy9V"
     },
     "dashboardURL": "https://developing-thrilling-beauty.glitch.me",
-    "mongoURL": "mongodb+srv://bedirhan:kuyucubedirhan98765@cluster0.cdwys.mongodb.net/test"
+    "mongoURL": ""
 }

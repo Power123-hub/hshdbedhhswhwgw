@@ -1,23 +1,23 @@
 {
     "bot": {
-        "token": "ODAyNTIzOTc1NzcwNDM5NzIx.YAwesQ.Cpm97zFEz-qxvESYq3bq24-hJU8",
-        "secret": "7Y3M6xGMz9dmJULta1JEOrGJv-MFuINO",
-        "ownerId": "615136637726228510",
-        "activity": "https://splashy-reflective-wok.glitch.me/",
-        "id": "666950346102407168",
+        "token": "NzcwMTA0NjkxNzYwOTU1NDQy.X5Yt4g.C7MknFo1VTTDwb_ixYbukTamQEk",
+        "secret": "M2BIB1aAHpfG7a5Pq6obwZ9XjFG8QNXI",
+        "ownerId": "769652460011782144",
+        "activity": "https://time-vaulted-pillow.glitch.me/",
+        "id": "770104691760955442",
          "prefix":"!"
     },
     "guild": {
-        "botRoleId": "809031161186615307",
-        "devRoleId": "809031161186615307",
-        "id": "809031161186615307",
-        "logChannelId": "807958259155468308"
+        "botRoleId": "805482055201849384",
+        "devRoleId": "805482600013627443",
+        "id": "795687694596177970",
+        "logChannelId": "805480677852053516"
     },
     "api": {
-        "url": "https://splashy-reflective-wok.glitch.me/",
+        "url": "https://time-vaulted-pillow.glitch.me",
         "port": "3000",
         "supportInvite": "https://discord.gg/YcwVhPcy9V"
     },
-    "dashboardURL": "https://splashy-reflective-wok.glitch.me/",
+    "dashboardURL": "https://time-vaulted-pillow.glitch.me/",
     "mongoURL": "mongodb+srv://bedirhan:kuyucubedirhan98765@cluster0.cdwys.mongodb.net/test"
 }

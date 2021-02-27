@@ -14,10 +14,10 @@
         "logChannelId": "815269227396988958"
     },
     "api": {
-        "url": "https://time-vaulted-pillow.glitch.me",
+        "url": "https://wistful-topaz-principle.glitch.me/",
         "port": "3000",
         "supportInvite": "https://discord.gg/YcwVhPcy9V"
     },
-    "dashboardURL": "https://time-vaulted-pillow.glitch.me/",
+    "dashboardURL": "https://wistful-topaz-principle.glitch.me/",
     "mongoURL": "mongodb+srv://bedirhan:kuyucubedirhan98765@cluster0.cdwys.mongodb.net/test"
 }

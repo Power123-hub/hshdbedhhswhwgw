@@ -3,15 +3,15 @@
         "token": "ODA1NDkzMTAwNDI0MzMxMjc0.YBbr6A.3FOTmAphrN2_y2ptyxmOGiH6fn0",
         "secret": "Jr0ngl5FwT9agXpBqKVnP4pacpTJhKuX",
         "ownerId": "729344881889378375",
-        "activity": "https://time-vaulted-pillow.glitch.me/",
-        "id": "770104691760955442",
-         "prefix":"!"
+        "activity": "https://wistful-topaz-principle.glitch.me/",
+        "id": "805493100424331274",
+         "prefix":"t!"
     },
     "guild": {
-        "botRoleId": "805482055201849384",
-        "devRoleId": "805482600013627443",
-        "id": "795687694596177970",
-        "logChannelId": "805480677852053516"
+        "botRoleId": "815269292441337896",
+        "devRoleId": "815269384578138165",
+        "id": "805493100424331274",
+        "logChannelId": "815269227396988958"
     },
     "api": {
         "url": "https://time-vaulted-pillow.glitch.me",

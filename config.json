@@ -1,10 +1,10 @@
 {
     "bot": {
         "token": "ODA1NDkzMTAwNDI0MzMxMjc0.YBbr6A.3FOTmAphrN2_y2ptyxmOGiH6fn0",
-        "secret": "Jr0ngl5FwT9agXpBqKVnP4pacpTJhKuX",
+        "secret": "TAi_xlsH69bM1FWuQYj35tnLBUJRldxE",
         "ownerId": "729344881889378375",
         "activity": "https://wistful-topaz-principle.glitch.me/",
-        "id": "805493100424331274",
+        "id": "676647123714048040",
          "prefix":"t!"
     },
     "guild": {
@@ -14,7 +14,7 @@
         "logChannelId": "815269227396988958"
     },
     "api": {
-        "url": "https://wistful-topaz-principle.glitch.me/",
+        "url": "https://bronzev.glitch.me",
         "port": "3000",
         "supportInvite": "https://discord.gg/YcwVhPcy9V"
     },

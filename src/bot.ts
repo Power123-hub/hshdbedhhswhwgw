@@ -9,7 +9,7 @@ import Log from './utils/log';
 
 export const bot = new Client();
 
-bot.login(config.bot.token);
+bot.login(process.env.token);
 
 Deps.get<EventsService>(EventsService).init();
 Deps.build(API);

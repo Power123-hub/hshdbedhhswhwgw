@@ -3,7 +3,7 @@
         "token": "ODA1NDkzMTAwNDI0MzMxMjc0.YBbr6A.3FOTmAphrN2_y2ptyxmOGiH6fn0",
         "secret": "TAi_xlsH69bM1FWuQYj35tnLBUJRldxE",
         "ownerId": "729344881889378375",
-        "activity": "https://wistful-topaz-principle.glitch.me/",
+        "activity": "https://bronzev.glitch.me/",
         "id": "676647123714048040",
          "prefix":"t!"
     },
@@ -18,6 +18,6 @@
         "port": "3000",
         "supportInvite": "https://discord.gg/YcwVhPcy9V"
     },
-    "dashboardURL": "https://wistful-topaz-principle.glitch.me/",
+    "dashboardURL": "https://bronzev.glitch.me/",
     "mongoURL": "mongodb+srv://bedirhan:kuyucubedirhan98765@cluster0.cdwys.mongodb.net/test"
 }

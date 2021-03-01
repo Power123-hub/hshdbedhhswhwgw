@@ -10,12 +10,6 @@ export const router = Router();
 
 router.get('/', (req, res) => res.json({ elthre: 'hlao' }));
 
-router.get('/auth', async (req, res) => {
-  try {
-    const key = await AuthClient.getAccess(req.query.code);
-    res.redirect(`${config.dashboardURL}/auth?key=${key}`);
-  } catch (error) { sendError(res, 400, error); }
-});
 
 router.post('/error', updateUser, async(req, res) => {
   try {

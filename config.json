@@ -4,13 +4,13 @@
         "secret": "TAi_xlsH69bM1FWuQYj35tnLBUJRldxE",
         "ownerId": "729344881889378375",
         "activity": "https://bronzev.glitch.me/",
-        "id": "676647123714048040",
+        "id": "817155491204431912",
          "prefix":"t!"
     },
     "guild": {
         "botRoleId": "815269292441337896",
         "devRoleId": "815269384578138165",
-        "id": "805493100424331274",
+        "id": "817155491204431912",
         "logChannelId": "815269227396988958"
     },
     "api": {

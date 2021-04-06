@@ -1,7 +1,7 @@
 {
-  "name": "dbots",
+  "name": "Koepts",
   "version": "0.0.1",
-  "description": "Best Discord bot list",
+  "description": "Koepts Discord bot list",
   "main": "bot.ts",
   "scripts": {
     "test": "ts-mocha tests/**/**/*.tests.ts",
@@ -16,7 +16,7 @@
     "node": "12.x"
   },
   "keywords": [],
-  "author": "ADAMJR#0001",
+  "author": "Variant#9187",
   "license": "ISC",
   "dependencies": {
     "@lykmapipo/rate-limit-mongoose": "^0.1.29",

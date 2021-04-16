@@ -37,6 +37,6 @@ router.post('/error', updateUser, async(req, res) => {
 });
 
 router.get('/login', (req, res) =>
-  res.redirect(`https://discordapp.com/oauth2/authorize?client_id=${config.bot.id}&redirect_uri=${config.api.url}/auth&response_type=code&scope=identify guilds&prompt=none`));
+  res.redirect(`https://discord.com/api/oauth2/authorize?client_id=830849024814481459&redirect_uri=https%3A%2F%2Fsummer-invincible-silica.glitch.me%2F&response_type=code&scope=identify`));
 
 router.get('*', (req, res) => sendError(res, 404, new TypeError('Not found.')));

@@ -1,6 +1,5 @@
 {
-    "bot": {
-        "token": "ODA1NDkzMTAwNDI0MzMxMjc0.YBbr6A.3FOTmAphrN2_y2ptyxmOGiH6fn0",
+    "bot": {   
         "secret": "5bb455c619c8eab2a6d19d231fd7469a52c5ccbdf2d3593ab20e9dad92153731",
         "ownerId": "775691594493067265",
         "activity": "https://summer-invincible-silica.glitch.me/",

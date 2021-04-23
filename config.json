@@ -2,7 +2,7 @@
     "bot": {   
         "secret": "5bb455c619c8eab2a6d19d231fd7469a52c5ccbdf2d3593ab20e9dad92153731",
         "ownerId": "775691594493067265",
-        "activity": "https://summer-invincible-silica.glitch.me/",
+        "activity": "https://neat-lizard-crowd.glitch.me/",
         "id": "830849024814481459",
          "prefix":"t!"
     },
@@ -13,10 +13,10 @@
         "logChannelId": "818949809250762783"
     },
     "api": {
-        "url": "https://summer-invincible-silica.glitch.me/",
+        "url": "https://neat-lizard-crowd.glitch.me/",
         "port": "3000",
         "supportInvite": "https://discord.gg/YcwVhPcy9V"
     },
-    "dashboardURL": "https://bronzev.glitch.me/",
+    "dashboardURL": "https://neat-lizard-crowd.glitch.me/",
     "mongoURL": "mongodb+srv://bedirhan:kuyucubedirhan98765@cluster0.cdwys.mongodb.net/test"
 }

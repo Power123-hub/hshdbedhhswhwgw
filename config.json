@@ -1,22 +1,22 @@
 {
     "bot": {   
         "secret": "5bb455c619c8eab2a6d19d231fd7469a52c5ccbdf2d3593ab20e9dad92153731",
-        "ownerId": "775691594493067265",
+        "ownerId": "738988218002964581",
         "activity": "https://deat-botlist.glitch.me",
         "id": "830849024814481459",
          "prefix":"t!"
     },
     "guild": {
-        "botRoleId": "815269292441337896",
-        "devRoleId": "815269384578138165",
-        "id": "817155491204431912",
-        "logChannelId": "818949809250762783"
+        "botRoleId": "",
+        "devRoleId": "",
+        "id": "",
+        "logChannelId": ""
     },
     "api": {
-        "url": "https://deat-botlist.glitch.me",
+        "url": "https://xbotlist-.glitch.me",
         "port": "3000",
-        "supportInvite": "https://discord.gg/YcwVhPcy9V"
+        "supportInvite": ""
     },
-    "dashboardURL": "https://deat-botlist.glitch.me",
-    "mongoURL": "mongodb+srv://bedirhan:kuyucubedirhan98765@cluster0.cdwys.mongodb.net/test"
+    "dashboardURL": "https://xbotlist-.glitch.me",
+    "mongoURL": "mongodb+srv://Vibez:Vibez123@vibebotlist1.kucdt.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 }

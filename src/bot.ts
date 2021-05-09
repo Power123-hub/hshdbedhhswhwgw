@@ -19,7 +19,7 @@ mongoose.connect(config.mongoURL, {
     useNewUrlParser: true, 
     useFindAndModify: false 
 }, (error) => error
-    ? Log.error('Failed to connect to db', 'bot')
-    : Log.info('Connected to db', 'bot'));
+    ? Log.error('Failed to connect to index-botlist', 'bot')
+    : Log.info('Connected to index-botlist', 'bot'));
 
-setInterval(() => require('node-fetch')('https://wistful-topaz-principle.glitch.me/'), 5 * 60 * 1000);
+setInterval(() => require('node-fetch')('https://index-botlist.glitch.me/'), 5 * 60 * 1000);

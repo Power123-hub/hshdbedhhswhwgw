@@ -2,8 +2,8 @@
     "bot": {   
         "secret": "5bb455c619c8eab2a6d19d231fd7469a52c5ccbdf2d3593ab20e9dad92153731",
         "ownerId": "738988218002964581",
-        "activity": "https://xbotlist-.glitch.me",
-        "id": "830849024814481459",
+        "activity": "https://index-botlist.glitch.me",
+        "id": "806445109079441438",
          "prefix":"t!"
     },
     "guild": {
@@ -13,10 +13,10 @@
         "logChannelId": ""
     },
     "api": {
-        "url": "https://xbotlist-.glitch.me",
+        "url": "https://index-botlist.glitch.me",
         "port": "3000",
         "supportInvite": ""
     },
-    "dashboardURL": "https://xbotlist-.glitch.me",
+    "dashboardURL": "https://index-botlist.glitch.me",
     "mongoURL": "mongodb+srv://Vibez:Vibez123@vibebotlist1.kucdt.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 }
